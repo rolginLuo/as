@@ -18,8 +18,17 @@
 		    float: none;
 		    width: auto;
 		}
-		#content-wrapper{
-		    padding-top:none;
+		#content-wrapper{padding-top:0;}
+		h1:before {}
+		#main-content h1 {
+		    margin-top: 0;
+		    margin-bottom: 0;
+		    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+		    font-size: 2.8em;
+		    font-weight: normal;
+		    color: #fff;
+		    text-indent: 6px;
+		    letter-spacing: -1px;
 		}
 
 		html{cursor:url(img/pointer08.cur),auto}
