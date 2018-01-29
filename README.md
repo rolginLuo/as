@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<!-- saved from url=(0024)http://www.beestudy.win/ -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		
 		<meta name="keywords" content="MR.HUANG,13通信网络G5-1班,深技师,读万卷书,行万里路,积木博物馆,Bee">
@@ -16,6 +14,13 @@
 		<style type="text/css">
 		header,#sidebar{display:none}
 		body{background: none}
+		#main-content {
+		    float: none;
+		    width: auto;
+		}
+		#content-wrapper{
+		    padding-top:none;
+		}
 
 		html{cursor:url(img/pointer08.cur),auto}
 		</style>
