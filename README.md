@@ -1,6 +1,6 @@
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		
-		<meta name="keywords" content="MR.HUANG,13通信网络G5-1班,深技师,读万卷书,行万里路,积木博物馆,Bee">
+		<meta name="keywords" content="MR.HUANG,读万卷书,行万里路,积木博物馆,Bee">
 		<meta name="description" content="Bee........">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<title>Bee</title>
